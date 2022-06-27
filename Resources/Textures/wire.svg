@@ -1,4 +1,236 @@
-<svg width="2" height="2" viewBox="0 0 2 2" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="0.5" width="1" height="2" fill="#039500"/>
-<rect x="0.75" width="0.5" height="2" fill="#15BD11"/>
+<svg width="11" height="15" viewBox="0 0 11 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="3" width="1" height="2" fill="#039500"/>
+<rect x="0.75" y="3" width="0.5" height="2" fill="#15BD11"/>
+<rect x="0.5" y="0.5" width="1" height="1" fill="#039500"/>
+<rect x="0.75" y="0.75" width="0.5" height="0.5" fill="#15BD11"/>
+<rect x="3" y="4.5" width="1" height="2" transform="rotate(-90 3 4.5)" fill="#039500"/>
+<rect x="3" y="4.25" width="0.5" height="2" transform="rotate(-90 3 4.25)" fill="#15BD11"/>
+<mask id="mask0_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="9" width="2" height="2">
+<rect y="9" width="2" height="2" fill="#15BD11"/>
+</mask>
+<g mask="url(#mask0_110_447)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1.29289 11L0.5 10.2071V9H0.707108L1.5 9.79289V11H1.29289Z" fill="#039500"/>
+</g>
+<mask id="mask1_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="9" width="2" height="2">
+<mask id="mask2_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="9" width="2" height="2">
+<rect y="9" width="2" height="2" fill="#15BD11"/>
+</mask>
+<g mask="url(#mask2_110_447)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1.29289 11L0.5 10.2071V9H0.707108L1.5 9.79289V11H1.29289Z" fill="#039500"/>
+</g>
+</mask>
+<g mask="url(#mask1_110_447)">
+<rect x="-0.590988" y="8.76257" width="0.5" height="4" transform="rotate(-45 -0.590988 8.76257)" fill="#15BD11"/>
+</g>
+<mask id="mask3_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1" y="9" width="1" height="2">
+<rect x="1" y="9" width="1" height="2" fill="#15BD11"/>
+</mask>
+<g mask="url(#mask3_110_447)">
+<rect x="-0.767769" y="8.93933" width="1" height="4" transform="rotate(-45 -0.767769 8.93933)" fill="#039500"/>
+<rect x="-0.590988" y="8.76256" width="0.5" height="4" transform="rotate(-45 -0.590988 8.76256)" fill="#15BD11"/>
+</g>
+<mask id="mask4_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="9" width="2" height="2">
+<rect x="0.5" y="9" width="1.5" height="2" fill="#15BD11"/>
+</mask>
+<g mask="url(#mask4_110_447)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M-0.0606602 8.23224L-0.590992 8.76257L2.23744 11.591L2.06066 11.7678L-0.767769 8.93935L-0.0606621 8.23224L-0.0606602 8.23224Z" fill="#039500"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1.25 9.8H1.5V9H1.25V9.8Z" fill="#039500"/>
+<rect x="0.75" y="9" width="0.5" height="1" fill="#15BD11"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.75 9H0.5V10.2H0.75V9Z" fill="#039500"/>
+<mask id="mask5_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="3" y="9" width="2" height="2">
+<rect x="3" y="11" width="2" height="2" transform="rotate(-90 3 11)" fill="#15BD11"/>
+</mask>
+<g mask="url(#mask5_110_447)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M5 9.70711L4.20711 10.5H3V10.2929L3.79289 9.5H5V9.70711Z" fill="#039500"/>
+</g>
+<mask id="mask6_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="3" y="9" width="2" height="2">
+<mask id="mask7_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="3" y="9" width="2" height="2">
+<rect x="3" y="11" width="2" height="2" transform="rotate(-90 3 11)" fill="#15BD11"/>
+</mask>
+<g mask="url(#mask7_110_447)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M5 9.70711L4.20711 10.5H3V10.2929L3.79289 9.5H5V9.70711Z" fill="#039500"/>
+</g>
+</mask>
+<g mask="url(#mask6_110_447)">
+<rect x="2.76257" y="11.591" width="0.5" height="4" transform="rotate(-135 2.76257 11.591)" fill="#15BD11"/>
+</g>
+<mask id="mask8_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="3" y="9" width="2" height="1">
+<rect x="3" y="10" width="1" height="2" transform="rotate(-90 3 10)" fill="#15BD11"/>
+</mask>
+<g mask="url(#mask8_110_447)">
+<rect x="2.93934" y="11.7678" width="1" height="4" transform="rotate(-135 2.93934 11.7678)" fill="#039500"/>
+<rect x="2.76257" y="11.591" width="0.5" height="4" transform="rotate(-135 2.76257 11.591)" fill="#15BD11"/>
+</g>
+<mask id="mask9_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="3" y="9" width="2" height="2">
+<rect x="3" y="10.5" width="1.5" height="2" transform="rotate(-90 3 10.5)" fill="#15BD11"/>
+</mask>
+<g mask="url(#mask9_110_447)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2.23223 11.0607L2.76256 11.591L5.59099 8.76256L5.76777 8.93933L2.93934 11.7678L2.23223 11.0607L2.23223 11.0607Z" fill="#039500"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3.8 9.75V9.5H3V9.75H3.8Z" fill="#039500"/>
+<rect x="3" y="10.25" width="0.5" height="1" transform="rotate(-90 3 10.25)" fill="#15BD11"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3 10.25V10.5H4.2V10.25H3Z" fill="#039500"/>
+<mask id="mask10_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="6" y="9" width="2" height="2">
+<rect x="8" y="11" width="2" height="2" transform="rotate(-180 8 11)" fill="#15BD11"/>
+</mask>
+<g mask="url(#mask10_110_447)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6.70711 9L7.5 9.79289V11H7.29289L6.5 10.2071V9H6.70711Z" fill="#039500"/>
+</g>
+<mask id="mask11_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="6" y="9" width="2" height="2">
+<mask id="mask12_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="6" y="9" width="2" height="2">
+<rect x="8" y="11" width="2" height="2" transform="rotate(-180 8 11)" fill="#15BD11"/>
+</mask>
+<g mask="url(#mask12_110_447)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6.70711 9L7.5 9.79289V11H7.29289L6.5 10.2071V9H6.70711Z" fill="#039500"/>
+</g>
+</mask>
+<g mask="url(#mask11_110_447)">
+<rect x="8.59099" y="11.2374" width="0.5" height="4" transform="rotate(135 8.59099 11.2374)" fill="#15BD11"/>
+</g>
+<mask id="mask13_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="6" y="9" width="1" height="2">
+<rect x="7" y="11" width="1" height="2" transform="rotate(-180 7 11)" fill="#15BD11"/>
+</mask>
+<g mask="url(#mask13_110_447)">
+<rect x="8.76777" y="11.0607" width="1" height="4" transform="rotate(135 8.76777 11.0607)" fill="#039500"/>
+<rect x="8.59099" y="11.2374" width="0.5" height="4" transform="rotate(135 8.59099 11.2374)" fill="#15BD11"/>
+</g>
+<mask id="mask14_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="6" y="9" width="2" height="2">
+<rect x="7.5" y="11" width="1.5" height="2" transform="rotate(-180 7.5 11)" fill="#15BD11"/>
+</mask>
+<g mask="url(#mask14_110_447)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8.06066 11.7678L8.59099 11.2374L5.76256 8.409L5.93934 8.23223L8.76777 11.0607L8.06066 11.7678L8.06066 11.7678Z" fill="#039500"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6.75 10.2H6.5V11H6.75V10.2Z" fill="#039500"/>
+<rect x="7.25" y="11" width="0.5" height="1" transform="rotate(-180 7.25 11)" fill="#15BD11"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7.25 11H7.5V9.8H7.25V11Z" fill="#039500"/>
+<mask id="mask15_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="9" y="9" width="2" height="2">
+<rect x="11" y="9" width="2" height="2" transform="rotate(90 11 9)" fill="#15BD11"/>
+</mask>
+<g mask="url(#mask15_110_447)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9 10.2929L9.79289 9.5H11V9.70711L10.2071 10.5H9V10.2929Z" fill="#039500"/>
+</g>
+<mask id="mask16_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="9" y="9" width="2" height="2">
+<mask id="mask17_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="9" y="9" width="2" height="2">
+<rect x="11" y="9" width="2" height="2" transform="rotate(90 11 9)" fill="#15BD11"/>
+</mask>
+<g mask="url(#mask17_110_447)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9 10.2929L9.79289 9.5H11V9.70711L10.2071 10.5H9V10.2929Z" fill="#039500"/>
+</g>
+</mask>
+<g mask="url(#mask16_110_447)">
+<rect x="11.2374" y="8.40901" width="0.5" height="4" transform="rotate(45 11.2374 8.40901)" fill="#15BD11"/>
+</g>
+<mask id="mask18_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="9" y="10" width="2" height="1">
+<rect x="11" y="10" width="1" height="2" transform="rotate(90 11 10)" fill="#15BD11"/>
+</mask>
+<g mask="url(#mask18_110_447)">
+<rect x="11.0607" y="8.23224" width="1" height="4" transform="rotate(45 11.0607 8.23224)" fill="#039500"/>
+<rect x="11.2374" y="8.40901" width="0.5" height="4" transform="rotate(45 11.2374 8.40901)" fill="#15BD11"/>
+</g>
+<mask id="mask19_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="9" y="9" width="2" height="2">
+<rect x="11" y="9.5" width="1.5" height="2" transform="rotate(90 11 9.5)" fill="#15BD11"/>
+</mask>
+<g mask="url(#mask19_110_447)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11.7678 8.93935L11.2374 8.40902L8.40901 11.2374L8.23223 11.0607L11.0607 8.23224L11.7678 8.93935L11.7678 8.93935Z" fill="#039500"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10.2 10.25V10.5H11V10.25H10.2Z" fill="#039500"/>
+<rect x="11" y="9.75" width="0.5" height="1" transform="rotate(90 11 9.75)" fill="#15BD11"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11 9.75V9.5H9.8V9.75H11Z" fill="#039500"/>
+<mask id="mask20_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="12" width="2" height="2">
+<rect y="12" width="2" height="2" fill="#15BD11"/>
+</mask>
+<g mask="url(#mask20_110_447)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1.29289 14L0.5 13.2071V12H0.707108L1.5 12.7929V14H1.29289Z" fill="#039500"/>
+</g>
+<mask id="mask21_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="12" width="2" height="2">
+<mask id="mask22_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="12" width="2" height="2">
+<rect y="12" width="2" height="2" fill="#15BD11"/>
+</mask>
+<g mask="url(#mask22_110_447)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1.29289 14L0.5 13.2071V12H0.707108L1.5 12.7929V14H1.29289Z" fill="#039500"/>
+</g>
+</mask>
+<g mask="url(#mask21_110_447)">
+<rect x="-0.590988" y="11.7626" width="0.5" height="4" transform="rotate(-45 -0.590988 11.7626)" fill="#15BD11"/>
+</g>
+<mask id="mask23_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1" y="12" width="1" height="3">
+<rect x="1" y="12" width="1" height="3" fill="#15BD11"/>
+</mask>
+<g mask="url(#mask23_110_447)">
+<rect x="-0.767769" y="11.9393" width="1" height="4" transform="rotate(-45 -0.767769 11.9393)" fill="#039500"/>
+<rect x="-0.590988" y="11.7626" width="0.5" height="4" transform="rotate(-45 -0.590988 11.7626)" fill="#15BD11"/>
+</g>
+<mask id="mask24_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="2" y="12" width="1" height="2">
+<rect x="2" y="12" width="1" height="2" fill="#15BD11"/>
+</mask>
+<g mask="url(#mask24_110_447)">
+<rect x="-0.767769" y="11.9393" width="1" height="4" transform="rotate(-45 -0.767769 11.9393)" fill="#039500"/>
+<rect x="-0.590988" y="11.7626" width="0.5" height="4" transform="rotate(-45 -0.590988 11.7626)" fill="#15BD11"/>
+</g>
+<mask id="mask25_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="12" width="2" height="3">
+<rect x="0.5" y="12" width="1.5" height="3" fill="#15BD11"/>
+</mask>
+<g mask="url(#mask25_110_447)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M-0.590993 11.7626L-0.767769 11.9393L2.06066 14.7678L2.76777 14.0607L2.72656 14.0194L2.19623 14.5498L-0.590993 11.7626Z" fill="#039500"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1.25 12.8H1.5V12H1.25V12.8Z" fill="#039500"/>
+<rect x="0.75" y="12" width="0.5" height="1" fill="#15BD11"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.75 12H0.5V13.2H0.75V12Z" fill="#039500"/>
+<mask id="mask26_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="5" y="12" width="2" height="2">
+<rect width="2" height="2" transform="matrix(-1 0 0 1 7 12)" fill="#15BD11"/>
+</mask>
+<g mask="url(#mask26_110_447)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M5.70711 14L6.5 13.2071V12H6.29289L5.5 12.7929V14H5.70711Z" fill="#039500"/>
+</g>
+<mask id="mask27_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="5" y="12" width="2" height="2">
+<mask id="mask28_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="5" y="12" width="2" height="2">
+<rect width="2" height="2" transform="matrix(-1 0 0 1 7 12)" fill="#15BD11"/>
+</mask>
+<g mask="url(#mask28_110_447)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M5.70711 14L6.5 13.2071V12H6.29289L5.5 12.7929V14H5.70711Z" fill="#039500"/>
+</g>
+</mask>
+<g mask="url(#mask27_110_447)">
+<rect width="0.5" height="4" transform="matrix(-0.707107 -0.707107 -0.707107 0.707107 7.59099 11.7626)" fill="#15BD11"/>
+</g>
+<mask id="mask29_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="5" y="12" width="1" height="3">
+<rect width="1" height="3" transform="matrix(-1 0 0 1 6 12)" fill="#15BD11"/>
+</mask>
+<g mask="url(#mask29_110_447)">
+<rect width="1" height="4" transform="matrix(-0.707107 -0.707107 -0.707107 0.707107 7.76777 11.9393)" fill="#039500"/>
+<rect width="0.5" height="4" transform="matrix(-0.707107 -0.707107 -0.707107 0.707107 7.59099 11.7626)" fill="#15BD11"/>
+</g>
+<mask id="mask30_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="4" y="12" width="1" height="2">
+<rect width="1" height="2" transform="matrix(-1 0 0 1 5 12)" fill="#15BD11"/>
+</mask>
+<g mask="url(#mask30_110_447)">
+<rect width="1" height="4" transform="matrix(-0.707107 -0.707107 -0.707107 0.707107 7.76777 11.9393)" fill="#039500"/>
+<rect width="0.5" height="4" transform="matrix(-0.707107 -0.707107 -0.707107 0.707107 7.59099 11.7626)" fill="#15BD11"/>
+</g>
+<mask id="mask31_110_447" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="5" y="12" width="2" height="3">
+<rect width="1.5" height="3" transform="matrix(-1 0 0 1 6.5 12)" fill="#15BD11"/>
+</mask>
+<g mask="url(#mask31_110_447)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7.59099 11.7626L7.76777 11.9393L4.93934 14.7678L4.23223 14.0607L4.27344 14.0195L4.80377 14.5498L7.59099 11.7626Z" fill="#039500"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M5.75 12.8H5.5V12H5.75V12.8Z" fill="#039500"/>
+<rect width="0.5" height="1" transform="matrix(-1 0 0 1 6.25 12)" fill="#15BD11"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6.25 12H6.5V13.2H6.25V12Z" fill="#039500"/>
+<rect x="0.5" y="6" width="1" height="1.5" fill="#039500"/>
+<rect x="0.75" y="6" width="0.5" height="1.25" fill="#15BD11"/>
+<rect x="1.5" y="6.5" width="0.5" height="1" fill="#039500"/>
+<rect x="1.25" y="6.75" width="0.75" height="0.5" fill="#15BD11"/>
+<rect x="3" y="7.5" width="1" height="1.5" transform="rotate(-90 3 7.5)" fill="#039500"/>
+<rect x="3" y="7.25" width="0.5" height="1.25" transform="rotate(-90 3 7.25)" fill="#15BD11"/>
+<rect x="3.5" y="6.5" width="0.5" height="1" transform="rotate(-90 3.5 6.5)" fill="#039500"/>
+<rect x="3.75" y="6.75" width="0.75" height="0.5" transform="rotate(-90 3.75 6.75)" fill="#15BD11"/>
+<rect x="7.5" y="8" width="1" height="1.5" transform="rotate(-180 7.5 8)" fill="#039500"/>
+<rect x="7.25" y="8" width="0.5" height="1.25" transform="rotate(-180 7.25 8)" fill="#15BD11"/>
+<rect x="6.5" y="7.5" width="0.5" height="1" transform="rotate(-180 6.5 7.5)" fill="#039500"/>
+<rect x="6.75" y="7.25" width="0.75" height="0.5" transform="rotate(-180 6.75 7.25)" fill="#15BD11"/>
+<rect x="11" y="6.5" width="1" height="1.5" transform="rotate(90 11 6.5)" fill="#039500"/>
+<rect x="11" y="6.75" width="0.5" height="1.25" transform="rotate(90 11 6.75)" fill="#15BD11"/>
+<rect x="10.5" y="7.5" width="0.5" height="1" transform="rotate(90 10.5 7.5)" fill="#039500"/>
+<rect x="10.25" y="7.25" width="0.75" height="0.5" transform="rotate(90 10.25 7.25)" fill="#15BD11"/>
 </svg>

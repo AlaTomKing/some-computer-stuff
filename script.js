@@ -7,8 +7,25 @@ class Grid {
     }
 
     AddObject(x, y) {
-        array.push(["block", x, y])
-        console.log(array)
+        array.push(['wire', x, y])
+        //console.log(array)
+    }
+
+    CheckObject(x, y) {
+        array.forEach(item => {
+            if (item[1] == x && item[2] == y) {
+                return item[0]
+            }
+        });
+    }
+
+    SelectTexture(name) {
+        let r;
+        switch (name) {
+            case 'wire':
+                return './Resources/Textures/wire.svg';
+        }
+        return;
     }
 }
 
@@ -34,7 +51,7 @@ let distancefromtitle = 30.5;
 let currentMouseGridPosX, currentMouseGridPosY;
 let grid = new Grid(5, 5);
 let camera = new Position2D(100, 100);
-let zoom = 4;
+let zoom = 1;
 
 let mousex, mousey;
 
@@ -43,9 +60,9 @@ let a = false;
 let s = false;
 let d = false;
 
-let res = 0.1; 
+let res = 2;
 
-let pipe = new Image(); pipe.src = './Resources/Textures/wire.svg'
+let texture = new Image();
 
 function resize() {
     canvas.style.width = (innerWidth) + 'px';
@@ -131,9 +148,10 @@ function render() {
 
         array.forEach(item => {
             ctx.globalAlpha = 1;
-            ctx.fillStyle = '#ffffff';
+            ctx.fillStyle = '#000000';
             //ctx.fillRect((item[1] * (gridSize * zoom) - camera.x) + innerWidth / 2, (item[2] * (gridSize * zoom) - camera.y) + innerHeight / 2, (gridSize * zoom), (gridSize * zoom));
-            ctx.drawImage(pipe, (item[1] * (gridSize * zoom) - camera.x) + innerWidth / 2, (item[2] * (gridSize * zoom) - camera.y) + innerHeight / 2, (gridSize * zoom), (gridSize * zoom));
+            texture.src = grid.SelectTexture(item[0]);
+            ctx.drawImage(texture, 0, 3, 2, 2, (item[1] * (gridSize * zoom) - camera.x) + innerWidth / 2, (item[2] * (gridSize * zoom) - camera.y) + innerHeight / 2, (gridSize * zoom), (gridSize * zoom));
         });
 
         // MOUSE SELECTION GRID
@@ -153,8 +171,10 @@ function render() {
                 break;
             default:
                 ctx.globalAlpha = 0.3;
-                ctx.fillStyle = '#34eb56';
+                ctx.fillStyle = '#ffffff';
                 ctx.fillRect((currentMouseGridPosX * (gridSize * zoom) - camera.x) + innerWidth / 2, (currentMouseGridPosY * (gridSize * zoom) - camera.y) + innerHeight / 2, (gridSize * zoom), (gridSize * zoom));
+                texture.src = './Resources/Textures/wire.svg';
+                ctx.drawImage(texture, 0, 3, 2, 2, (currentMouseGridPosX * (gridSize * zoom) - camera.x) + innerWidth / 2, (currentMouseGridPosY * (gridSize * zoom) - camera.y) + innerHeight / 2, (gridSize * zoom), (gridSize * zoom));
 
                 break;
         }
@@ -250,7 +270,7 @@ function trackMouse(mouse) {
 function zooming(whel) {
     zoom += whel.deltaY * -0.01;
     zoom = Math.min(Math.max(0.5, zoom), 10);
-    console.log(zoom)
+    //console.log(zoom)
 }
 
 function place() {
